@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão Financeira Pessoal Inteligente",
+  "description": "A simple, functional, and visual application for personal financial control. Users can manually track bank balances, accounts payable, paid accounts, and income, with a financial summary dashboard and reports.",
+  "requestFramePermissions": []
+}
